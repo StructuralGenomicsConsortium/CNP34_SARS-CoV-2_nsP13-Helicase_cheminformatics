@@ -18,6 +18,7 @@ If you'd like to contact someone to talk about contributing, then write somethin
 Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653  
 Professor Peter Brown, University of North Carolina Chapel Hill  
 Anwar Hossain, University of North Carolina Chapel Hill - @ahsgc  
+Holli-Joi Martin, UNC Chapel Hill  
 
 You can see other contributors in the Issues (tab above).
 
