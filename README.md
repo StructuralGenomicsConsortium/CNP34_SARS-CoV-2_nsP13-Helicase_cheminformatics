@@ -1,5 +1,5 @@
 # CNP34_SARS-CoV-2_nsP13-Helicase_cheminformatics
-SARS-CoV-2 nsP13 helicase inhibitors identification through data mining
+## SARS-CoV-2 nsP13 helicase inhibitors identification through data mining
 
 An SGC Open Chemistry Networks Project devoted to the discovery and development of SARS-CoV-2 nsP13 helicase inhibitors. The outbreak of COVID-19 demonstrated the scarcity of drugs in the development pipeline to decrease the mortality and morbidity caused by the new pathogenic SARS-CoV-2 virus. Despite the improved diagnosis and screening processes, broad, directly-acting anticoronavirus drugs were not immediately available to treat viral infections. In response to this health threat, the Rapidly Emerging Antiviral Drug Discovery Initiative – Antiviral Drug Discovery Center (READDI-AC) was established to develop a pipeline of oral, direct-acting antiviral hits, leads, and drug candidates with broad activity against alphaviruses, flaviviruses, coronaviruses, and filoviruses with high pandemic potential. Importantly, READDI-AC currently focuses on highly conserved viral RNA polymerase (RdRp), helicase (Hel), and proteases (Pro) that are essential for positive and/or negative strand emerging virus replication and pathogenesis.
 
@@ -15,9 +15,9 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Medicinal chemists involved in this CNP Project:
 
-Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653
-Professor Peter Brown, University of North Carolina Chapel Hill
-Anwar Hossain, University of North Carolina Chapel Hill - @ahsgc
+Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653  
+Professor Peter Brown, University of North Carolina Chapel Hill  
+Anwar Hossain, University of North Carolina Chapel Hill - @ahsgc  
 
 You can see other contributors in the Issues (tab above).
 
